@@ -1,7 +1,7 @@
 export default function () {
     return (
       <div className="footer">
-        <div className="footer-group flex flex-col sm:flex-row bg-[#0e1a2d] justify-evenly p-[2rem]">
+        <div className="footer-group flex flex-row bg-[#0e1a2d] justify-evenly p-[2rem]">
           <ul className="ftr-category text-white">
             <b className="text-blue-400" >Get to Know Us</b>
             <li>About Us</li>
