@@ -1,1 +1,1 @@
-# BloomScroll
+# it's a Project to help in achieving user's their goal via BloomScroll Social Media Where user's will get without Distraction , Roadmap, aspiration, motivation, mentorship,speed, and the most important thing user will learn from their and other's past mistake while achieving like their goals.
